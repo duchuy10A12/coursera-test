@@ -1,0 +1,8 @@
+body {
+    background-color: red;
+    font-family: 'Nabla', cursive;
+}
+#header-nav {
+    background-color: white;
+    width: max-content;
+}
